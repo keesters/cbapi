@@ -11,7 +11,7 @@ people_data = cbapi.people(name='Steve',types='investor') # returns people data 
 companies_data = cbapi.companies(name='Data',locations='California') # returns company data based on the given inputs
 ```
 ## Installation
-Use the package manager pip to install cbapi.
+Use the package manager [pip](https://github.com/keesters/cbapi.git) to install cbapi.
 
 ```bash
 pip install git+https://github.com/keesters/cbapi.git
