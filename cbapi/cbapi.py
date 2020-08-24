@@ -13,7 +13,7 @@ def set_api_key(api_key):
     RAPIDAPI_KEY = api_key
     
 def get_api_key():
-    return RAPIDAPI_KEY
+    return '35658967cbmsh78da30f62c42138p19349fjsnf03dfd67e446'
 
 def trigger_api(query: dict,orgs: bool):
     api_key = get_api_key()
