@@ -7,7 +7,7 @@ from threading import Thread
 from queue import Queue
 
 def set_api_key(api_key):
-    global RAPID_API_KEY
+    global RAPIDAPI_KEY
     RAPIDAPI_KEY = api_key
     
 def get_api_key():
