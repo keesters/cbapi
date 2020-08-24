@@ -6,6 +6,8 @@ import pandas as pd
 from threading import Thread
 from queue import Queue
 
+RAPIDAPI_KEY = ''
+
 def set_api_key(api_key):
     global RAPIDAPI_KEY
     RAPIDAPI_KEY = api_key
