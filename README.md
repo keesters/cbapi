@@ -14,6 +14,6 @@ companies_data = cbapi.companies(name='Data',locations='California') # returns c
 Use the package manager pip to install cbapi.
 
 ```bash
-pip install git+https://github.com/keesters/baruch-mfe-python-summer.git#egg=cbapi
+pip install git+https://github.com/keesters/cbapi.git
 ```
 
